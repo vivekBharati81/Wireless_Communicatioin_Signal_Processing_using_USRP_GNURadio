@@ -5,7 +5,7 @@ Welcome to the real-time Wireless Communication and Signal Processing using Univ
 
 ## Learning
 1. **Real-time Wireless Communication with SDR**
-   - Explored modulation techniques including BPSK, QPSK, and QAM for encoding digital data onto carrier signals.
+   - Explored modulation techniques including ASK, FSK, BPSK, QPSK, and QAM for encoding digital data onto carrier signals.
    - Investigated coherent and non-coherent demodulation for accurately retrieving transmitted data.
    - Established data communication links with SDR hardware like USRP and RTL-SDR.
 
